@@ -3,7 +3,7 @@ CoBaseTRS, or Control Optimisation Baselines for Tidal Range Structures (TRS), i
 
 CoBaseTRS.ipynb is the main Jupyter notebook file in this repository. It can provide control optimisation estimates for any TRS design, for all available 26 months of ocean data. As an example, it is currently setup with the design for the Swansea Bay Tidal Lagoon pathfinder project. By running the provided CoBaseTRS.ipynb, outputs for all optimisation methods are provided for a single month. The notebook contains instructions for installing required packages.
 
-The optimisation baselines in CoBaseTRS are named CH, CHV, EHT, EHTV, EHN and EHNV. All methods are of the type "prediction-dependent" and "head-controlled", i.e. (i) they utilise tide signal forecasts for (ii) acquiring best operational water heads for operating TRS.
+The optimisation baselines in CoBaseTRS are named CH, CHV, EHT, EHTV, EHN and EHNV. All methods are of the type "prediction-dependent" and "head-controlled", i.e. they utilise tide signal forecasts for acquiring best operational water heads for operating TRS.
 
 CH, EHT and EHN methods were developed based on the work of [1, 2], and named as "classic" approaches. The remaining CHV, EHTV and EHNV methods consider a novel "variant" operation of TRS, with independent sluice operation (inspired by the work of [3, 4]) and first published in [5].
 
