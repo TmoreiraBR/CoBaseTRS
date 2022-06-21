@@ -5,7 +5,7 @@ CoBaseTRS.ipynb is the main Jupyter notebook file in this repository. It can pro
 
 The optimisation baselines in CoBaseTRS are named CH, CHV, EHT, EHTV, EHN and EHNV. All methods are of the type "prediction-dependent" and "head-controlled", i.e. (i) they utilise tide signal forecasts for (ii) acquiring best operational water heads for operating TRS.
 
-CH, EHT and EHN methods were developed based on the work of [1, 2], and named as ``classic'' approaches. The remaining CHV, EHTV and EHNV methods consider a novel ``variant'' operation of TRS, with independent sluice operation (inspired by the work of [3, 4]) and first published in [5].
+CH, EHT and EHN methods were developed based on the work of [1, 2], and named as "classic" approaches. The remaining CHV, EHTV and EHNV methods consider a novel "variant" operation of TRS, with independent sluice operation (inspired by the work of [3, 4]) and first published in [5].
 
 [1]: Ahmadian, Reza, et al. "Optimisation of tidal range schemes." Proceedings of the 12th European Wave and Tidal Energy Conference. 2017.
 [2]: Xue, Jingjing, Reza Ahmadian, and Roger A. Falconer. "Optimising the operation of tidal range schemes." Energies 12.15 (2019): 2870.
