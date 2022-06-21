@@ -8,9 +8,13 @@ The optimisation baselines in CoBaseTRS are named CH, CHV, EHT, EHTV, EHN and EH
 CH, EHT and EHN methods were developed based on the work of [1, 2], and named as "classic" approaches. The remaining CHV, EHTV and EHNV methods consider a novel "variant" operation of TRS, with independent sluice operation (inspired by the work of [3, 4]) and first published in [5].
 
 [1]: Ahmadian, Reza, et al. "Optimisation of tidal range schemes." Proceedings of the 12th European Wave and Tidal Energy Conference. 2017.
+
 [2]: Xue, Jingjing, Reza Ahmadian, and Roger A. Falconer. "Optimising the operation of tidal range schemes." Energies 12.15 (2019): 2870.
+
 [3]: Baker, Clive. "Tidal power." Energy Policy 19.8 (1991): 792-797.
+
 [4]: Angeloudis, Athanasios, et al. "Optimising tidal range power plant operation." Applied energy 212 (2018): 680-690.
+
 [5]: Moreira, Túlio Marcondes, et al. "Prediction-free, real-time flexible control of tidal lagoons through Proximal Policy Optimisation: A case study for the Swansea Lagoon." Ocean Engineering 247 (2022): 110657.
 
 **This study uses data from the National Tidal and Sea Level Facility, provided by the British Oceanographic Data Centre (BODC) and funded by the Environment Agency.**
